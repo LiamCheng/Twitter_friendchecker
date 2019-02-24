@@ -10,7 +10,7 @@ from PIL import Image, ImageTk
 ##################################################
 consumer_key = 'consumer_key'
 consumer_secret = 'consumer_secret'
-access_key = '2153338314-access_key'
+access_key = 'access_key'
 access_secret = 'access_secret'
 auth = tweepy.auth.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
