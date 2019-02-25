@@ -1,5 +1,5 @@
 ## Python3.6-Twitter_friendchecker
-- 本程式以Tweepy API和tkinter為基礎，可檢查雙方使用者再Twitter使否互為好友。
+- 本程式以Tweepy API和tkinter為基礎，可檢查雙方使用者在Twitter上是否互為好友。
 
 
 
